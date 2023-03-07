@@ -1,6 +1,8 @@
 ## Salve! Meu nome é Eduardo e seja muito bem-vindo ao meu perfil GitHub! 👋
 Tenho 18 anos e trabalho como programador/desenvolvedor júnior em Conectra Sistemas. :computer:
 <br>
+Atualmente estou no 1º semestre de Sistemas de Informação na UFSC - Florianópolis/SC. 📚
+<br>
 Entusiasta de tecnologia e programação... :keyboard:
 
 <div>
